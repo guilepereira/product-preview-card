@@ -42,7 +42,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Screenshot
 | Desktop | Mobile |
 |---|---|
-|![Layout Desktop](../product-preview-card/screenshots/FM__productPreviewCard--Desktop.png)|![Layout Mobile](../product-preview-card/screenshots/FM__productPreviewCard--Mobile.png)|
+|![Layout Desktop](screenshots/FM__productPreviewCard--Desktop.png)|![Layout Mobile](screenshots/FM__productPreviewCard--Mobile.png)|
 
 -------
 
