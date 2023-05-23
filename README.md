@@ -29,7 +29,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 -------
 ### Links
 
-- Live project on [GitHub](https://guilepereira.github.io/html-css/product-preview-card/)
+- Live project on [GitHub](https://guilepereira.github.io/product-preview-card/)
 
 - Solution on [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-using-bem-pWNH_SaSjY)
 
